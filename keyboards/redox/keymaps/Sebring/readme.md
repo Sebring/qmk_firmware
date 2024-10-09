@@ -1,4 +1,10 @@
-# The default keymap for Redox
+# Sebring keymap of Redox
+Use therminal `QMK_SYS`.
+## Build
+`qmk compile kb=redox/Sebring`
+
+## Flash
+`qmk flash`
 
 ### Qwerty
 ```
